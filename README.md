@@ -7,6 +7,6 @@ I'm nerowander
 </a>
 
 - 📚 Focus on backend development and security 
-- ☕ I’m currently learning Java Security
+- ☕ I’m currently learning Java Security and Cloud Security
 - ⚔️ Former Rookie CTFer
 - 📫 How to reach me: r1esbyfe2022@gmail.com
